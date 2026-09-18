@@ -1,0 +1,91 @@
+{
+  "generated_at": "2026-09-18T10:30:09Z",
+  "total_domains": 3,
+  "successful_domains": 3,
+  "failed_domains": 0,
+  "results": [
+    {
+      "domain": "postman.com",
+      "company_name": "Postman",
+      "company_overview": "Postman is the leading collaboration platform for API development, used by more than 40 million users and 500,000 companies worldwide. It provides an all-in-one platform to develop, test, manage, and distribute APIs and services, designed for enterprise scale.",
+      "target_audience": "Developers and engineering teams involved in API development and management.",
+      "contact_points": [
+        "info@postman.com",
+        "help@postman.com"
+      ],
+      "team_members": [
+        {
+          "name": "Abhinav Asthana",
+          "role": "CEO/Co-Founder",
+          "linkedin_url": "https://www.linkedin.com/in/abhinavasthana"
+        },
+        {
+          "name": "Ankit Sobti",
+          "role": "CTO/Co-Founder",
+          "linkedin_url": "https://www.linkedin.com/in/ankit-sobti"
+        },
+        {
+          "name": "Abhijit Kane",
+          "role": "Product Architect/Co-Founder",
+          "linkedin_url": "https://in.linkedin.com/in/abhijitkane"
+        }
+      ],
+      "confidence_score": 0.9,
+      "source_urls": [
+        "https://www.postman.com/",
+        "https://www.postman.com/company/about-postman",
+        "https://www.postman.com/company/contact-sales/",
+        "https://www.postman.com/company/contact-us/",
+        "https://www.postman.com/company/press-media/",
+        "https://www.postman.com/category/developer-productivity"
+      ],
+      "processing_status": "success",
+      "error_message": null
+    },
+    {
+      "domain": "supabase.com",
+      "company_name": "Supabase",
+      "company_overview": "Supabase is a development platform that provides a complete backend infrastructure using Postgres, enabling users to build production-grade applications with features like authentication, instant APIs, and real-time data synchronization. It is designed for developers and teams looking to quickly prototype and scale applications without the complexity of traditional backend setups.",
+      "target_audience": "Developers and innovation teams building production-grade applications and AI solutions.",
+      "contact_points": [
+        "legal@supabase.com",
+        "privacy@supabase.com",
+        "abuse@supabase.com",
+        "security@supabase.com",
+        "help-events@supabase.com"
+      ],
+      "team_members": [],
+      "confidence_score": 0.85,
+      "source_urls": [
+        "https://supabase.com/",
+        "https://supabase.com/solutions/innovation-teams",
+        "https://supabase.com/company",
+        "https://supabase.com/contact-us",
+        "https://supabase.com/contact/sales",
+        "https://supabase.com/customers"
+      ],
+      "processing_status": "success",
+      "error_message": null
+    },
+    {
+      "domain": "vapi.ai",
+      "company_name": "Vapi",
+      "company_overview": "Vapi provides a platform for developers to build, test, and deploy advanced voice AI agents quickly and efficiently. The service is designed for organizations of all sizes, enabling them to enhance customer interactions through conversational voice technology.",
+      "target_audience": "Developers creating conversational voice AI and teams needing reliable voice infrastructure.",
+      "contact_points": [
+        "Talent@vapi.ai"
+      ],
+      "team_members": [],
+      "confidence_score": 0.7,
+      "source_urls": [
+        "https://vapi.ai/",
+        "https://vapi.ai/sales",
+        "https://vapi.ai/customers",
+        "https://vapi.ai/pricing",
+        "https://vapi.ai/careers"
+      ],
+      "processing_status": "success",
+      "error_message": null
+    }
+  ]
+}
